@@ -1,5 +1,6 @@
 # Hello 👋
-I am Subhajit Dutta.
+
+<h2>I am Subhajit Dutta.
 
 
 GitHub User's stars GitHub followers
