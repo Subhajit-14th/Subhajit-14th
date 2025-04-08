@@ -2,12 +2,6 @@
 
 <h2>I am Subhajit Dutta. <br>
 
-
-GitHub User's stars GitHub followers
-
-Connect with me here:
-Instagram Linkedin
-
 Few things about me<br>🏢 I'm a FLutter Developer and still trying to Android Native.<br>👯 I'm currently researching on GPS Devices which is connected with Mobile Devices!<br>🤔 I’m finish my education in Bachelor of Tech. in Computer Science And Engineering. I love intering/part-timing!<br>😮 Pronouns He/Him
 
 
